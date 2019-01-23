@@ -19,11 +19,11 @@ import Prelude hiding (not, and, max)
 
 -- 0. Define `age` to be your age.
 
-age = 27
+age = 12
 
 -- 1. Define `name` to be your name.
 
-name = "Michael"
+name = "Sakshi"
 
 -- 2. Modify the definition of `triple` so that it triples its argument.
 
